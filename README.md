@@ -1,5 +1,7 @@
 # CGDB - Contextual Graph Database
 
+[![Rust](https://github.com/keyqcloud/cgdb/actions/workflows/rust.yml/badge.svg)](https://github.com/keyqcloud/cgdb/actions/workflows/rust.yml)
+
 CGDB is a Contextual Graph Database designed to handle complex data relationships with dynamic schema evolution and context-aware querying. This database system is written in Rust and aims to provide an efficient, scalable, and flexible solution for managing interconnected data.
 
 ### Features
